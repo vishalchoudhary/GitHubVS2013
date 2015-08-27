@@ -11,8 +11,8 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, GitHub");
-            Console.WriteLine("Hey GitHub!"); //lksdjf
-            //Console.WriteLine("Testing!!!");
+            //Console.WriteLine("Hey GitHub!"); //lksdjf
+            Console.WriteLine("Testing!!!");
             
             Console.ReadLine();
         }
